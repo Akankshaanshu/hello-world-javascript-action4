@@ -1,1 +1,1 @@
-# hello-world-javascript-action4_latest
+# hello-world-javascript-action4
